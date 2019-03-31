@@ -1,5 +1,4 @@
 Codewars:
-   6. http://www.codewars.com/kata/partition-on
    7. http://www.codewars.com/kata/word-count
    9. http://www.codewars.com/kata/implement-a-filter-function
    10. http://www.codewars.com/kata/prefill-an-array
