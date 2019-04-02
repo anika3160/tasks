@@ -1,5 +1,4 @@
-Codewars:
-   7. http://www.codewars.com/kata/word-count  
+Codewars:  
    9. http://www.codewars.com/kata/implement-a-filter-function  
    11. http://www.codewars.com/kata/cross-product-of-vectors  
    13. https://www.codewars.com/kata/base-conversion/  
