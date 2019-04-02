@@ -5,7 +5,6 @@ Codewars:
    13. https://www.codewars.com/kata/base-conversion/  
    16. http://www.codewars.com/kata/can-you-keep-a-secret  
    17. http://www.codewars.com/kata/using-closures-to-share-class-state  
-   18. http://www.codewars.com/kata/a-chain-adding-function  
    19. http://www.codewars.com/kata/function-cache  
    20. http://www.codewars.com/kata/function-composition  
    21. http://www.codewars.com/kata/function-composition-1  
