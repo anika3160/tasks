@@ -11,7 +11,6 @@ Codewars:
    26. http://www.codewars.com/kata/new-with-apply  
    27. http://www.codewars.com/kata/extract-nested-object-reference  
    29. http://www.codewars.com/kata/replicate-new  
-   31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance  
    32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters  
 
    ---
