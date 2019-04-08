@@ -1,5 +1,4 @@
 Codewars: 
-   9. http://www.codewars.com/kata/implement-a-filter-function  
    13. https://www.codewars.com/kata/base-conversion/  
    16. http://www.codewars.com/kata/can-you-keep-a-secret  
    17. http://www.codewars.com/kata/using-closures-to-share-class-state  
