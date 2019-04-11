@@ -2,7 +2,6 @@ Codewars:
    13. https://www.codewars.com/kata/base-conversion/  
    17. http://www.codewars.com/kata/using-closures-to-share-class-state  
    19. http://www.codewars.com/kata/function-cache  
-   20. http://www.codewars.com/kata/function-composition  
    21. http://www.codewars.com/kata/function-composition-1   
    23. http://www.codewars.com/kata/i-spy  
    24. http://www.codewars.com/kata/calculating-with-functions  
