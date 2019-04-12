@@ -2,7 +2,6 @@ Codewars:
    13. https://www.codewars.com/kata/base-conversion/  
    19. http://www.codewars.com/kata/function-cache    
    23. http://www.codewars.com/kata/i-spy  
-   24. http://www.codewars.com/kata/calculating-with-functions  
    26. http://www.codewars.com/kata/new-with-apply  
    27. http://www.codewars.com/kata/extract-nested-object-reference  
    29. http://www.codewars.com/kata/replicate-new  
